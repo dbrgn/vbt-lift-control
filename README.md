@@ -1,6 +1,11 @@
-Servo control for the marble lift.
+# Marble Lift Control
 
-Uses a SM-S4303 continuous rotation servo.
+Servo control for the [ViralBallTrack](https://github.com/Makers-Im-Zigerschlitz/ViralBallTrack)
+marble lift.
+
+Uses a SM-S4303 continuous rotation servo and a STM32F103 blue pill board.
+
+The potentiometer controls the rotation speed and direction.
 
 ## Wiring
 
